@@ -22,7 +22,7 @@ Create a 3-tier SaaS-style Customer Support portal (Flask backend + MySQL DB)
 - Tools: VS Code, GitHub, Docker (later), Kubernetes (later)
 
 ## Screenshots
-(Add browser screenshot of local app here after Day 1)
+<image-card alt="Day 1 Local Flask App" src="screenshots/day1-local-app.png" ></image-card>
 
 ## How to Run Locally (Updated after each day)
 ```bash
