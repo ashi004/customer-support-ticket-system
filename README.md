@@ -22,7 +22,8 @@ Create a 3-tier SaaS-style Customer Support portal (Flask backend + MySQL DB)
 - Tools: VS Code, GitHub, Docker (later), Kubernetes (later)
 
 ## Screenshots
-<image-card alt="Day 1 Local Flask App" src="screenshots/day1-local-app.png" ></image-card>
+<image-card alt="Day 2 Tickets Route" src="day2-tickets-route.png" ></image-card>
+*Mock L2 ticket list – March 8, 2026 (simulates Samsung Salesforce queue)*
 
 ## How to Run Locally (Updated after each day)
 ```bash
